@@ -1,4 +1,4 @@
-require 'test_helper'
+require "test_helper"
 
 def it_does_not_leak_view_context
   2.times do |n|
